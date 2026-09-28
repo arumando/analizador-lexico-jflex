@@ -1,0 +1,25 @@
+# Archivos compilados de Java
+out/
+build/
+dist/
+*.class
+*.jar
+
+# NetBeans
+nbproject/private/
+
+# IntelliJ, VS Code y Eclipse
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JFlex: cada quien lo descarga (ver README)
+lib/*.jar
